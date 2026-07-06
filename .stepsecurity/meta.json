@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/ftp-deploy-action",
+   "upstream_full_repo_name": "samkirkland/ftp-deploy-action",
+   "action_type": "node",
+   "last_release": {
+     "tag_name": "v4.4.0",
+     "created_at": "2026-06-02T11:56:20Z",
+     "published_at": "2026-06-03T02:55:42Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
